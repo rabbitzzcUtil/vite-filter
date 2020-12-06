@@ -170,7 +170,7 @@ export default {
                 sepia: 0,
                 dropShadow: '8px 8px 10px #ccc'
             },
-            imgUrl: 'http://pic1.win4000.com/wallpaper/5/5615fffbb846f.jpg'
+            imgUrl: 'http://h2.ioliu.cn/bing/ChipmunkJP_ZH-CN1697070440_1920x1080.jpg?imageslim'
         }
     },
     computed:{
